@@ -2,9 +2,9 @@
 
 Hi there, I'm Wan, a student in NFLS.  
 
-![Wan081018's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wan081018&theme=tokyonight&show_icons=true)
+[![Wan081018's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wan081018&theme=tokyonight&show_icons=true)](https://github.com/Wan081018)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wan081018&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wan081018&layout=compact&theme=tokyonight)](https://github.com/Wan081018)
 
 Xiaruize0911's info:  
 
